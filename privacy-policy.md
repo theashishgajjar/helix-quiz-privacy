@@ -7,7 +7,7 @@ permalink: /privacy-policy/
 
 # Privacy Policy for Helix - AI Powered Trivia Quiz
 
-**Last Updated: [Current Date]**
+**Last Updated: [24 October 2023]**
 
 ## Introduction
 
