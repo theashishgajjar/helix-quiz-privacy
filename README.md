@@ -8,7 +8,7 @@ Welcome to the privacy policy page for Helix - AI Powered Trivia Quiz.
 
 ## Quick Links
 
-- [Privacy Policy](index.md)
+- [Privacy Policy](PRIVACY_POLICY.md)
 
 - [Contact Us](#contact)
 
