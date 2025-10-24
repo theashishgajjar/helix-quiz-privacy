@@ -25,3 +25,5 @@ Helix is an AI-powered trivia quiz app that creates personalized learning experi
 ---
 
 *This page hosts the privacy policy for Helix - AI Powered Trivia Quiz mobile application.*
+
+<!-- Last updated: December 2024 -->
