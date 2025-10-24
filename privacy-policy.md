@@ -1,3 +1,10 @@
+---
+layout: page
+title: Privacy Policy
+description: Privacy Policy for Helix - AI Powered Trivia Quiz
+permalink: /privacy-policy/
+---
+
 # Privacy Policy for Helix - AI Powered Trivia Quiz
 
 **Last Updated: [Current Date]**

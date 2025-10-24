@@ -1,9 +1,28 @@
 title: Helix Quiz Privacy Policy
-
 description: Privacy Policy for Helix - AI Powered Trivia Quiz
+author: Helix Quiz Team
+email: loopvert@gmail.com
 
+# Jekyll configuration
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-baseurl: ""
+# Site settings
+baseurl: "/helix-quiz-privacy"
+url: "https://theashishgajjar.github.io"
 
-url: "https://theashishgajjar.github.io/helix-quiz-privacy"
+# Build settings
+markdown: kramdown
+highlighter: rouge
+safe: true
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Minima theme settings
+minima:
+  social_links:
+    email: loopvert@gmail.com

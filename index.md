@@ -1,11 +1,10 @@
 ---
-layout: page
-title: About
-description: About Helix - AI Powered Trivia Quiz
-permalink: /about/
+layout: default
+title: Helix Quiz Privacy Policy
+description: Privacy Policy for Helix - AI Powered Trivia Quiz
 ---
 
-# Helix - AI Powered Trivia Quiz
+# Helix - AI Powered Trivia Quiz Privacy Policy
 
 Welcome to the privacy policy page for Helix - AI Powered Trivia Quiz.
 
